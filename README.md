@@ -1,6 +1,6 @@
 # Bayesian Optimization applied to database tuning
 
-This repository holds a notebook to explain how Bayesian optimization can be used on a concrete case to fine-tune a database configuration.
+This repository holds a [notebook](https://github.com/paulden/bayesian-optimization/blob/master/bayesian_optimization.ipynb) to explain how Bayesian optimization can be used on a concrete case to fine-tune a database configuration.
 
 To run the notebook by yourself, be sure to use a Jupyter kernel with the required packages (see `requirements.txt`).
 
